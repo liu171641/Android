@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../bluetoothtest" />
+            <option value="$PROJECT_DIR$/../cameratest" />
+            <option value="$PROJECT_DIR$/../dialogtest" />
+            <option value="$PROJECT_DIR$/../fragmenttest" />
+            <option value="$PROJECT_DIR$/../geolib_1" />
+            <option value="$PROJECT_DIR$/../handlertest" />
+            <option value="$PROJECT_DIR$/../httptest" />
+            <option value="$PROJECT_DIR$/../listviewtest" />
+            <option value="$PROJECT_DIR$/../myapplicationqwe" />
+            <option value="$PROJECT_DIR$/../myyyy" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../sensorlighttest" />
+            <option value="$PROJECT_DIR$/../touchtest" />
+            <option value="$PROJECT_DIR$/../youkutest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

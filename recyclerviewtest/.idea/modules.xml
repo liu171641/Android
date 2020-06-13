@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../My Application.iml" filepath="$PROJECT_DIR$/../My Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bluetoothtest/bluetoothtest.iml" filepath="$PROJECT_DIR$/../bluetoothtest/bluetoothtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cameratest/cameratest.iml" filepath="$PROJECT_DIR$/../cameratest/cameratest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dialogtest/dialogtest.iml" filepath="$PROJECT_DIR$/../dialogtest/dialogtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/../fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../geolib_1/geolib_1.iml" filepath="$PROJECT_DIR$/../geolib_1/geolib_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../handlertest/handlertest.iml" filepath="$PROJECT_DIR$/../handlertest/handlertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httptest/httptest.iml" filepath="$PROJECT_DIR$/../httptest/httptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../listviewtest/listviewtest.iml" filepath="$PROJECT_DIR$/../listviewtest/listviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapplicationqwe/myapplicationqwe.iml" filepath="$PROJECT_DIR$/../myapplicationqwe/myapplicationqwe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myyyy/myyyy.iml" filepath="$PROJECT_DIR$/../myyyy/myyyy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewtest.iml" filepath="$PROJECT_DIR$/recyclerviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sensorlighttest/sensorlighttest.iml" filepath="$PROJECT_DIR$/../sensorlighttest/sensorlighttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../touchtest/touchtest.iml" filepath="$PROJECT_DIR$/../touchtest/touchtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../youkutest/youkutest.iml" filepath="$PROJECT_DIR$/../youkutest/youkutest.iml" />
+    </modules>
+  </component>
+</project>
